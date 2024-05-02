@@ -6,4 +6,5 @@ timeline: fftimeline
 timeline-options:
   hash_bookmark: true
   start_at_end: true
+  zoom:2
 ---
