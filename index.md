@@ -1,6 +1,6 @@
 ---
 title: A Great Timeline
-layout: emded
+layout: embed
 # add TimelineJS
 timeline: fflimeline
 ---
