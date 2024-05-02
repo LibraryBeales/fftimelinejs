@@ -1,6 +1,6 @@
 ---
 title: A Great Timeline
-layout: page-full-width
+layout: embed
 # add TimelineJS
 timeline: fftimeline
 ---
