@@ -2,7 +2,7 @@
 title: Freedman Fellow Timeline
 layout: embed
 # add TimelineJS
-timeline: fftimeline_nodesc
+timeline: fftimeline_newtest
 timeline-options:
   height: 800
   hash_bookmark: true
